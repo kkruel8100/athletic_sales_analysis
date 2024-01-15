@@ -19,3 +19,9 @@ Open "athletic_sales_analysis_starter_code.ipynb" and run the panels.
 Alternatively,
 
 Step 1: Navigate to the "athletic_sales_analysis_starter_code.ipynb" in Github repo. The output can be viewed in the "Preview" panel.
+
+#### Resources
+
+Sales Product Data. Available: https://www.kaggle.com/datasets/knightbearr/sales-product-dataLinks to an external site.
+
+The sales product data above was modified by edX Boot Camps LLC, and is intended for educational purposes only.
