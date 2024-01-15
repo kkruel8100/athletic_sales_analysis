@@ -22,6 +22,8 @@ Step 1: Navigate to the "athletic_sales_analysis_starter_code.ipynb" in Github r
 
 #### Resources
 
-Sales Product Data. Available: https://www.kaggle.com/datasets/knightbearr/sales-product-dataLinks to an external site.
+The sales product data csv files were provided by and were modified by edX Boot Camps LLC, and is intended for educational purposes only.
 
-The sales product data above was modified by edX Boot Camps LLC, and is intended for educational purposes only.
+Per edX Boot Camps LLC, the Sales Product Data was sourced from Kaggle.
+
+Sales Product Data. Available: https://www.kaggle.com/datasets/knightbearr/sales-product-data.
